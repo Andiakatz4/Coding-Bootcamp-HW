@@ -1,0 +1,19 @@
+<!DOCTYPE html> 
+    <html>
+        <head>
+            <title>My Student Bio</title>   
+        </head>
+    <body>
+                
+            <h1>Student Bio</h1> {color:blue; fontsize:12px;}
+            <h2>Andia Katz</h2>
+            <img src="https://i.pinimg.com/originals/bf/f5/65/bff565208a36b49f795ca40bbe14a2aa.jpg" style="width:200px;height:200px;">
+            <p>Andia Katz is 27 years old from San Diego, CA</p>
+            
+            <h3>Contact Information:</h3>
+                <p>email: andiakatz@gmail.com</p>
+                <p>phone: (858) 774-1062</p>
+    </body>
+</html>
+   
+

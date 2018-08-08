@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<begincss>
+<head>
+    <title>CSS Practice</title>
+    <!-- Link to your external CSS -->
+
+</head>
+<body>
+
+    <!-- Center -->
+    <h1>{
+        color: white;
+        text-decoration: underline;
+    }</h1>
+
+    <hr>
+
+    <h2>Fun With Text!</h2>
+
+    <!-- Change text color -->
+    <p>color: red;</p>
+    <p>color: blue;.</p>
+    <p>color:green;.</p>
+
+    <!-- Change font-size -->
+    <p>font size: 30px;</p>
+    <p>font size: 10px;...</p>
+
+    
+    <!-- Change font -->
+    <p>We can even change our font-family if we are feeling creative!</p>
+
+    <!-- Multiple attributes -->
+    <p>Try combining multiple attributes to make big, orange, bold text!</p>
+
+    <hr>
+
+    .Each one of these lines is within a different &ltp&gt tag, yet they all have the same styling {
+        styledFont: itallic;
+    }
+    .That's because they are all a part of the same CSS class! {
+        styledFont: normal;
+    }
+   .CSS classes let us define a style once and let us then apply it to multiple elements! {
+       sytledFont: oblique;
+   }
+    .In your external CSS file, create a style for the class styledFont. {
+        styledFont: oblique;
+    }
+  .Notice how every time you change the class styledFont, all of the text changes.</p> {
+      styledFont: inherit;
+  }
+
+    <hr>
+
+    <p>Just as classes can be used to style multiple elements, id's are used to style single, unique elements. Give the following image a border by adding style attributes to your external CSS file. (Hint: Remember to include a border width, style, and color.)</p>
+
+    <!-- Border & id -->
+    <img id="styledImage" alt="Picture of the CSS Icon" src="https://www.viewlike.us/wp-content/uploads/2013/04/css3-markup.jpg">
+
+    <hr>
+
+    </style> 
+<!-- END CSS -->
+
+<!-- </html> -->
